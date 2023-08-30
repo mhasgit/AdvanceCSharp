@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountrySubdivisions", "CountrySubdivisions\CountrySubdivisions.csproj", "{365F5735-9F2C-4350-B381-C294B884264D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountriesFormApp", "CountriesFormApp\CountriesFormApp.csproj", "{61C08ABC-BDC4-494C-8FD2-E3235F1087B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{365F5735-9F2C-4350-B381-C294B884264D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{365F5735-9F2C-4350-B381-C294B884264D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{365F5735-9F2C-4350-B381-C294B884264D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{365F5735-9F2C-4350-B381-C294B884264D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61C08ABC-BDC4-494C-8FD2-E3235F1087B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61C08ABC-BDC4-494C-8FD2-E3235F1087B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61C08ABC-BDC4-494C-8FD2-E3235F1087B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61C08ABC-BDC4-494C-8FD2-E3235F1087B9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D42FEB9C-EB60-48B6-89C4-4FA83B6C0F97}
+	EndGlobalSection
+EndGlobal

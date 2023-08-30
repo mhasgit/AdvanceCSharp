@@ -1,0 +1,14 @@
+C:\C#\CountrySubdivisions\CountriesFormApp\bin\Debug\CountriesFormApp.exe.config
+C:\C#\CountrySubdivisions\CountriesFormApp\bin\Debug\CountriesFormApp.exe
+C:\C#\CountrySubdivisions\CountriesFormApp\bin\Debug\CountriesFormApp.pdb
+C:\C#\CountrySubdivisions\CountriesFormApp\bin\Debug\Newtonsoft.Json.dll
+C:\C#\CountrySubdivisions\CountriesFormApp\bin\Debug\Newtonsoft.Json.xml
+C:\C#\CountrySubdivisions\CountriesFormApp\obj\Debug\CountriesFormApp.csproj.AssemblyReference.cache
+C:\C#\CountrySubdivisions\CountriesFormApp\obj\Debug\CountriesFormApp.csproj.SuggestedBindingRedirects.cache
+C:\C#\CountrySubdivisions\CountriesFormApp\obj\Debug\CountriesFormApp.CountriesForm.resources
+C:\C#\CountrySubdivisions\CountriesFormApp\obj\Debug\CountriesFormApp.Properties.Resources.resources
+C:\C#\CountrySubdivisions\CountriesFormApp\obj\Debug\CountriesFormApp.csproj.GenerateResource.cache
+C:\C#\CountrySubdivisions\CountriesFormApp\obj\Debug\CountriesFormApp.csproj.CoreCompileInputs.cache
+C:\C#\CountrySubdivisions\CountriesFormApp\obj\Debug\CountriesFormApp.csproj.CopyComplete
+C:\C#\CountrySubdivisions\CountriesFormApp\obj\Debug\CountriesFormApp.exe
+C:\C#\CountrySubdivisions\CountriesFormApp\obj\Debug\CountriesFormApp.pdb
