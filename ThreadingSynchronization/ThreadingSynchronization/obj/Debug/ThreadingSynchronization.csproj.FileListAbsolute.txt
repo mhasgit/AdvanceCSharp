@@ -1,0 +1,8 @@
+C:\C#\ThreadingSynchronization\ThreadingSynchronization\bin\Debug\ThreadingSynchronization.exe.config
+C:\C#\ThreadingSynchronization\ThreadingSynchronization\bin\Debug\ThreadingSynchronization.exe
+C:\C#\ThreadingSynchronization\ThreadingSynchronization\bin\Debug\ThreadingSynchronization.pdb
+C:\C#\ThreadingSynchronization\ThreadingSynchronization\obj\Debug\ThreadingSynchronization.csproj.AssemblyReference.cache
+C:\C#\ThreadingSynchronization\ThreadingSynchronization\obj\Debug\ThreadingSynchronization.csproj.SuggestedBindingRedirects.cache
+C:\C#\ThreadingSynchronization\ThreadingSynchronization\obj\Debug\ThreadingSynchronization.csproj.CoreCompileInputs.cache
+C:\C#\ThreadingSynchronization\ThreadingSynchronization\obj\Debug\ThreadingSynchronization.exe
+C:\C#\ThreadingSynchronization\ThreadingSynchronization\obj\Debug\ThreadingSynchronization.pdb
