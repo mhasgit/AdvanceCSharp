@@ -60,11 +60,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\C#\\CountrySubdivisions\\CountrySubdivisions\\CountrySubdivisions.csproj",
+      "projectUniqueName": "C:\\AdvanceCSharp\\CountrySubdivisions\\CountrySubdivisions\\CountrySubdivisions.csproj",
       "projectName": "CountrySubdivisions",
-      "projectPath": "C:\\C#\\CountrySubdivisions\\CountrySubdivisions\\CountrySubdivisions.csproj",
+      "projectPath": "C:\\AdvanceCSharp\\CountrySubdivisions\\CountrySubdivisions\\CountrySubdivisions.csproj",
       "packagesPath": "C:\\Users\\hassa\\.nuget\\packages\\",
-      "outputPath": "C:\\C#\\CountrySubdivisions\\CountrySubdivisions\\obj\\",
+      "outputPath": "C:\\AdvanceCSharp\\CountrySubdivisions\\CountrySubdivisions\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hassa\\AppData\\Roaming\\NuGet\\NuGet.Config",
